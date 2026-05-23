@@ -2,6 +2,8 @@
 
 Del curso de Udemy: https://www.udemy.com/course/ai-developer-bootcamp/
 
+Al clonar este repositorio, cambiar el nombre de `.env.template` a `.env` e indicar los valores correctos.
+
 ## Introduction to AI Powered Apps
 
 ### Creating an AI-Powered App with Python
